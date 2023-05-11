@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #001520 !important;
+    margin-top: 50px;
+    margin: 15px 0 !important;
+
+    p{
+        margin: 0;
+        width: 300px;
+        color: #fff;
+        display: flex;
+        justify-content: space-around;
+        font-size: 20px;
+    }
+}
